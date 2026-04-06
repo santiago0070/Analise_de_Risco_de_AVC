@@ -102,7 +102,7 @@ Este projeto foi desenvolvido com foco em prática de análise de dados e constr
 ## 📌 Autor
 
 **Rodrigo Santiago**
-🔗 [LinkedIn](www.linkedin.com/in/r0drig0-santiag0/)
-🔗 [GitHub](https://github.com/santiago0070/)
+🔗 www.linkedin.com/in/r0drig0-santiag0
+🔗 https://github.com/santiago0070
 
 ---
